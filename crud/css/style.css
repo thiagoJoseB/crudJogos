@@ -1,0 +1,84 @@
+
+#categorias{
+    width: 600px;
+    height: 110px;
+    background-color: skyblue;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+
+
+#input{
+    width: 400px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top:30px;
+}
+
+
+#botao{
+    height: 50px;
+    width: 70px;
+    margin-left: 20px;
+   margin-top:30px;
+}
+
+
+#tipo{
+    height: 50px;
+    width: 70px;
+    color: black;
+    background-color: white;
+   font-size: 2em;
+    float: left;
+     margin-left: 5px;
+   margin-top:30px;
+}
+
+
+.tblCategorias{
+    width: 600px;
+    height: 100px;
+    background-color: beige;
+    margin: auto;
+    margin-top: 40px;
+      
+   
+}
+
+
+#tblLinhas{
+     width: 70px;
+    height: 60px;
+    background-color: skyblue;
+    
+   
+    
+    
+}
+
+.colunas{
+     width: 70px;
+    height: 50px;
+    background-color: bisque;
+   
+    
+}
+
+
+
+
+.editar{
+    width: 60px;
+    height: 60px;
+     margin-left: 20px;
+    
+}
+
+.excluir{
+    width: 60px;
+    height: 60px;
+    margin-left: 40px;
+}
